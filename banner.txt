@@ -1,0 +1,16 @@
+#!/usr/bin/emv Python3
+
+# ------------ Coding-UTF-8 ------------
+
+# Banner: #    #  ####  #    # #    # #####    ##    ####  ######  ####  #    # #####  # ##### #   # 
+#    # #    # ##  ## #    # #    #  #  #  #      #      #    # #    # #    # #   #    # #  
+###### #    # # ## # #    # #    # #    #  ####  #####  #      #    # #    # #   #     #   
+#    # #    # #    # #    # #####  ######      # #      #      #    # #####  #   #     #   
+#    # #    # #    # #    # #   #  #    # #    # #      #    # #    # #   #  #   #     #   
+#    #  ####  #    #  ####  #    # #    #  ####  ######  ####   ####  #    # #   #     #    
+                                                      
+# -- options -- 
+
+# option: 1) Ensure that the devices from the users are completely safe from harmful intrusive agents
+# option: 2) Secure the network if needed to ensure that the users are safe from harm
+# option: 3) If you think that the network is being exploited, be sure to scan it from time from time to avoid future and new potentialized threats from cyber attackers/cyber criminals (black hat hackers)
