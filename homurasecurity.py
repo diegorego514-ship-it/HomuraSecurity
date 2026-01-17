@@ -56,9 +56,10 @@ try:
     s.close()
 
 except:
-    print("[!] You have to send the infectious viral attack to quarantinize it up or delete it out from your device.")
+    print("[!] You have to isolate the infectious viral attack in a antivirus to quarantine it up or delete it out from your device.")
 
-    print("[*] Recommendation - You have to scan your devices regularly and constantly update it to keep it safer from potential and future threats/cyber criminal attacks.")
+    print("[*] Recommendation - You have to scan your devices regularly and constantly update/upgrade up the device"
+" to keep it safer from potential and future threats/cyber criminal attacks.")
 
 else:
     print("[+] Your devices are safe, you're good to go.")
