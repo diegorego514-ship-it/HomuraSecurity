@@ -46,3 +46,19 @@ except:
     print("[!] Secure your Devices by ensuring that your ports are properly closed.")
 else:
     print("[+] You're good to go, your ports are closed.")
+
+try:
+    s.delete_the_virus
+    s.getsockopt(5) # Set timer in Seconds
+    s.gettimeout(10) # Set time in Seconds
+    s.custom_directive("Content-Security-Policy: <policy-directive>; <policy-directive>")
+    s.form_action("Content-Security-Policy: <policy-directive>; <policy-directive>")
+    s.close()
+
+except:
+    print("[!] You have to send the infectious viral attack to quarantinize it up or delete it out from your device.")
+
+    print("[*] Recommendation - You have to scan your devices regularly and constantly update it to keep it safer from potential and future threats/cyber criminal attacks.")
+
+else:
+    print("[+] Your devices are safe, you're good to go.")
