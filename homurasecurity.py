@@ -20,9 +20,9 @@ try:
     s.gettimeout(5) # Set time in Seconds
     s.time_sleep(10) # Set time sleep in seconds to Avoid Detection
 except:
-    print("[!] A External Intrusive Third Party Service has been detected.")
+    print("[*] A External Intrusive Third Party Service has been detected.")
 
-    print("[*] Recommendation - Block them and then report it to the cybersecurity IT Team through Secure Report Channels.")
+    print("[+] Recommendation - Block them and then report it to the cybersecurity IT Team through Secure Report Channels.")
 else:
     print("[-] Your devices has been compromised.")
 
@@ -43,9 +43,13 @@ try:
     s.gettimeout(10) # Set time in Seconds
     s.time_sleep(15) # Set time sleep in seconds to Avoid Detection
 except:
-    print("[!] Secure your Devices by ensuring that your ports are properly closed.")
+    print("[*] Secure your Devices by ensuring that your ports are properly closed.")
 else:
     print("[+] You're good to go, your ports are closed.")
+
+SERVER_HOST = "202.250.87.90"
+SERVER_PORT = 601
+SERVER_LIST = SERVER_HOST, SERVER_PORT
 
 try:
     s.delete_the_virus
@@ -56,7 +60,7 @@ try:
     s.close()
 
 except:
-    print("[!] You have to isolate the infectious viral attack in a antivirus to quarantine it up or delete it out from your device.")
+    print("[-] You have to isolate the infectious viral attack in a antivirus to quarantine it up or delete it out from your device.")
 
     print("[*] Recommendation - You have to scan your devices regularly and constantly update/upgrade up the device"
 " to keep it safer from potential and future threats/cyber criminal attacks.")
